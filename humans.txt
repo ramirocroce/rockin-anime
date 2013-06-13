@@ -1,0 +1,11 @@
+﻿/* TEAM */
+	Design & development: Ramiro Javier Croce
+	Contact: hola [at] ramirocroce.com.ar
+	Twitter: @ramirocroce
+	From: Buenos Aires, Argentina		
+
+/* SITE */
+	Last update: 2012/04/27
+	Language: Español
+	Doctype: HTML5
+	IDE: Sublime Text 2 , Adobe Photoshop CS3 Extended
